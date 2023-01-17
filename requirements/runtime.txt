@@ -9,3 +9,4 @@ statsmodels
 tqdm
 joblib
 opt_einsum
+ordered_set
